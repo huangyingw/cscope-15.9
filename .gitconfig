@@ -1,0 +1,4 @@
+[merge]
+    allow = true
+[commit]
+    message = n
