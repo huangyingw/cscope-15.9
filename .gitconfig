@@ -2,3 +2,11 @@
     allow = true
 [commit]
     message = n
+[remote "github"]
+    url = git@github.com:huangyingw/cscope-15.9.git
+    fetch = +refs/heads/*:refs/remotes/github/*
+[push]
+    remote = github
+[gsync]
+    remote = github
+    branch = master
