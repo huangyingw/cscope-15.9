@@ -4,4 +4,5 @@ SCRIPTPATH=$(dirname "$SCRIPT")
 cd "$SCRIPTPATH"
 
 ./configure
-make install
+make install \
+    && ~/loadrc/gitrc/g.sh
