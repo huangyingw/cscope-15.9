@@ -13,3 +13,5 @@
 [branch "master"]
     remote = github
     merge = refs/heads/master
+[vrun]
+    silent = false

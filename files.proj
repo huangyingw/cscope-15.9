@@ -14,6 +14,7 @@
 "./TODO"
 "./acinclude.m4"
 "./aclocal.m4"
+"./build.sh"
 "./compile"
 "./config.guess"
 "./config.h"
