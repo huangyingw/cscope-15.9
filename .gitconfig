@@ -10,3 +10,6 @@
 [gsync]
     remote = github
     branch = master
+[branch "master"]
+    remote = github
+    merge = refs/heads/master
