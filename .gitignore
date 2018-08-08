@@ -26,20 +26,3 @@ _$*
 *.ln
 core
 # CVS default ignores end
-Makefile
-autom4te.cache
-config.h
-config.log
-config.status
-stamp-h1
-INSTALL
-Makefile.in
-compile
-config.guess
-config.h.in
-config.sub
-depcomp
-missing
-mkinstalldirs
-ylwrap
-aclocal.m4
